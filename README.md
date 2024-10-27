@@ -3,7 +3,7 @@
 Bienvenido a este repositorio, que recopila todo el contenido y los proyectos desarrollados durante mi participación en el Bootcamp de Inteligencia Artificial de TalentoTech. Este programa está diseñado para ofrecer una inmersión profunda en el fascinante mundo de la Inteligencia Artificial (IA), cubriendo desde los fundamentos hasta aplicaciones avanzadas de aprendizaje automático y procesamiento del lenguaje natural (PLN).
 
 ## Autor 
-** BYRON JOEL GARZÓN ESTUPIÑAN 
+BYRON JOEL GARZÓN ESTUPIÑAN 
 
 
 Bienvenido a este repositorio, que recopila todo el contenido y los proyectos desarrollados durante mi participación en el Bootcamp de Inteligencia Artificial de TalentoTech. Este programa está diseñado para ofrecer una inmersión profunda en el fascinante mundo de la Inteligencia Artificial (IA), cubriendo desde los fundamentos hasta aplicaciones avanzadas de aprendizaje automático y procesamiento del lenguaje natural (PLN).
